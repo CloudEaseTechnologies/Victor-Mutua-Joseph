@@ -1,0 +1,8 @@
+{
+  "name": "Meridian Ledger",
+  "description": "Enterprise financial modeling, Power Query ETL, multi-dimensional pivot analytics, monthly close workflow, and role-governed executive reporting suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
